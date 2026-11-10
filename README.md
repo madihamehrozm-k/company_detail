@@ -1,1 +1,46 @@
 # company_detail
+# Paradise Nursery
+
+## Project Description
+Paradise Nursery is an online plant shopping website designed to help customers explore and purchase beautiful houseplants. The website provides an easy-to-use interface where users can browse plants, view prices, add products to their shopping cart, and manage their orders.
+
+## Project Objectives
+- Create a user-friendly online nursery shopping platform.
+- Display houseplants under different categories.
+- Allow users to add plants to the shopping cart.
+- Provide options to increase, decrease, and remove cart items.
+- Calculate the total price dynamically.
+- Provide a simple and attractive shopping experience.
+
+## Technologies Used
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Redux Toolkit
+- React Redux
+
+## Features
+- Home page with Paradise Nursery branding.
+- Get Started button to explore plants.
+- About Us page with company information.
+- Product listing with plant images, names, and prices.
+- Multiple plant categories.
+- Add to Cart functionality.
+- Dynamic shopping cart item count.
+- Shopping cart with quantity management.
+- Delete items from the cart.
+- Automatic total price calculation.
+- Checkout message.
+
+## Project Structure
+- README.md
+- AboutUs.jsx
+- App.jsx
+- App.css
+- CartSlice.jsx
+- ProductList.jsx
+- CartItem.jsx
+
+## Project Name
+Paradise Nursery – Online Houseplant Shopping Application
